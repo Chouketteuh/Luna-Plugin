@@ -1,15 +1,15 @@
 # Luna Plugin 
 
 ## 🕹️ Compatibility
-| Region | Game Version | Supported 
-| EUR    | ACNL         | ✅      
-| USA    | ACNL         | ✅
-| JPN    | ACNL         | SOON
-| EUR    | ACNL WA      | SOON
-| USA    | ACNL WA      | SOON
-| JPN    | ACNL WA      | SOON
-| KOR    | ACNL         | ❌
-| KOR    | ACNL WA      | ❌
+- | Region | Game Version | Supported 
+- | EUR    | ACNL         | ✅      
+- | USA    | ACNL         | ✅
+- | JPN    | ACNL         | SOON
+- | EUR    | ACNL WA      | SOON
+- | USA    | ACNL WA      | SOON
+- | JPN    | ACNL WA      | SOON
+- | KOR    | ACNL         | ❌
+- | KOR    | ACNL WA      | ❌
 
 ## 🛠️ Installation
 
