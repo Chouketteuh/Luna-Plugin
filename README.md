@@ -25,4 +25,4 @@
 - Maintained and improved by **[@Chouketteuh]** and **[@Lurio280]**
 
 ## ⚙️ Download
-- [Click here to download the plugin!](https://github.com/Chouketteuh/Luna-Plugin/releases)
+[Click here to download the plugin!](https://github.com/Chouketteuh/Luna-Plugin/releases)
