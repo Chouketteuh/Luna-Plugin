@@ -19,7 +19,9 @@
 4. Press **Select** to open the CTRPF menu.
 
  
- ## 🧱 Credits
+## 🧱 Credits
 
 - Based on or inspired by code from [Vapecord](https://github.com/RedShyGuy/Vapecord-ACNL-Plugin) 
 - Maintained and improved by **[@Chouketteuh]** and **[@Lurio280]**
+
+- [Click here to download the plugin!](https://github.com/Chouketteuh/Luna-Plugin/releases)
