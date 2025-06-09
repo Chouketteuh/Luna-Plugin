@@ -13,15 +13,15 @@
 
 ## 🛠️ Installation
 
-1. Make sure you are using the latest version of **Luma3DS** with **.3gx plugin loading enabled**.
+1. Make sure you are using the latest version of **Luma3DS** with **.3gx plugin loader enabled**.
 2. Place the "luma" folder at the root of the SD card  
 3. Launch **ACNL**.
-4. Press **Select** to open the CTRPF menu.
+4. Press **Select** to open the plugin menu.
 
  
 ## 🧱 Credits
 
-- Based on or inspired by code from [Vapecord](https://github.com/RedShyGuy/Vapecord-ACNL-Plugin) 
+- Based and inspired by code from [Vapecord](https://github.com/RedShyGuy/Vapecord-ACNL-Plugin) 
 - Maintained and improved by **[@Chouketteuh]** and **[@Lurio280]**
 
 ## ⚙️ Download
