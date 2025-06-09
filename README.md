@@ -24,4 +24,5 @@
 - Based on or inspired by code from [Vapecord](https://github.com/RedShyGuy/Vapecord-ACNL-Plugin) 
 - Maintained and improved by **[@Chouketteuh]** and **[@Lurio280]**
 
+## ⚙️ Download
 - [Click here to download the plugin!](https://github.com/Chouketteuh/Luna-Plugin/releases)
