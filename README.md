@@ -22,4 +22,4 @@
  ## 🧱 Credits
 
 - Based on or inspired by code from [Vapecord](https://github.com/RedShyGuy/Vapecord-ACNL-Plugin) 
-- Maintained and improved by **[@Chouketteuh] and **[@Lurio280]**
+- Maintained and improved by **[@Chouketteuh]** and **[@Lurio280]**
