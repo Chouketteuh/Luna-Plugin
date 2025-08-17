@@ -5,15 +5,15 @@
 The goal of the plugin is to be equivalent to the [Vapecord](https://github.com/RedShyGuy/Vapecord-ACNL-Plugin) plugin but more practical and with some new features.
 
 ## 🕹️ Compatibility
-### | Region | Game Version | Supported 
-- | EUR    | ACNL         | ✅
-- | USA    | ACNL         | ✅
-- | EUR    | ACNL WA      | ✅
-- | JPN    | ACNL         | SOON
-- | USA    | ACNL WA      | SOON
-- | JPN    | ACNL WA      | SOON
-- | KOR    | ACNL         | ❌
-- | KOR    | ACNL WA      | ❌
+### Region | Game Version | Supported 
+- EUR    | ACNL         | ✅
+- USA    | ACNL         | ✅
+- EUR    | ACNL WA      | ✅
+- JPN    | ACNL         | SOON
+- USA    | ACNL WA      | SOON
+- JPN    | ACNL WA      | SOON
+- KOR    | ACNL         | ❌
+- KOR    | ACNL WA      | ❌
 
 ## 🛠️ Installation
 
