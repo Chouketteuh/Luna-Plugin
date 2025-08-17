@@ -2,10 +2,10 @@
 
 ## ⚽ Goal
 
-The goal of the plugin is to be equivalent to the [Vapecord](https://github.com/RedShyGuy/Vapecord-ACNL-Plugin) but more practical and with some new features.
+The goal of the plugin is to be equivalent to the [Vapecord](https://github.com/RedShyGuy/Vapecord-ACNL-Plugin) plugin but more practical and with some new features.
 
 ## 🕹️ Compatibility
-- | Region | Game Version | Supported 
+### | Region | Game Version | Supported 
 - | EUR    | ACNL         | ✅
 - | USA    | ACNL         | ✅
 - | EUR    | ACNL WA      | ✅
