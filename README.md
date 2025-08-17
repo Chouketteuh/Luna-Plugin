@@ -2,10 +2,10 @@
 
 ## 🕹️ Compatibility
 - | Region | Game Version | Supported 
-- | EUR    | ACNL         | ✅      
+- | EUR    | ACNL         | ✅
 - | USA    | ACNL         | ✅
+- | EUR    | ACNL WA      | ✅
 - | JPN    | ACNL         | SOON
-- | EUR    | ACNL WA      | SOON
 - | USA    | ACNL WA      | SOON
 - | JPN    | ACNL WA      | SOON
 - | KOR    | ACNL         | ❌
