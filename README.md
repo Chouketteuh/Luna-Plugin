@@ -9,8 +9,8 @@ The goal of the plugin is to be equivalent to the [Vapecord](https://github.com/
 - EUR    | ACNL         | ✅
 - USA    | ACNL         | ✅
 - EUR    | ACNL WA      | ✅
+- USA    | ACNL WA      | ✅
 - JPN    | ACNL         | SOON
-- USA    | ACNL WA      | SOON
 - JPN    | ACNL WA      | SOON
 - KOR    | ACNL         | ❌
 - KOR    | ACNL WA      | ❌
